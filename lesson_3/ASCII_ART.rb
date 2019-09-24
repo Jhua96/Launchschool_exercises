@@ -1,0 +1,1 @@
+p (0..10).each {|num| puts "#{" " * num}The Flintstones Rock!".center(num)}

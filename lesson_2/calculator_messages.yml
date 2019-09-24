@@ -1,0 +1,8 @@
+welcome: "Welcome to Calculator!"
+first_number: "What's the first number?"
+second_number: "What's the second number?"
+not_valid: "Hmm... that doesn't look like a valid number"
+again: "do you want to perform another calculation? (y to calculate again)"
+try_again: "That is not a valid operation try again"
+
+
